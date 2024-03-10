@@ -1,0 +1,27 @@
+.title-heading {
+    text-align: center;
+}
+
+#inter-tight-header {
+  font-family: "Inter Tight", sans-serif;
+
+  font-weight: 500;
+  font-size: 2vh;
+  font-style: oblique;
+}
+
+.map-container {
+    border: 5px solid;
+    position: absolute;
+    inset: 0px;
+    width: 12erm;
+    height: 5rem;
+    max-width: 100vw;
+    max-height: 100dvh;
+    margin: auto;
+}
+
+#map { 
+    height: 850px;
+    width: 1250px;
+}
